@@ -6,11 +6,7 @@ This project is a clone of Twitter with several core features including user aut
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Environment Variables](#environment-variables)
-- [License](#license)
+- [ Important Links](#important-links)
 
 ## Features
 
@@ -36,12 +32,6 @@ This project is a clone of Twitter with several core features including user aut
 - **Image Upload**: Cloudinary
 - **Other Libraries**: bcryptjs, dotenv, cookie-parser, cors
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ANIKETKOLI20/twitter-x-clone.git
-   cd twitter-x-clone
 
 ## Important Links
 **GitHub Repository** : https://github.com/ANIKETKOLI20/Tweetify
