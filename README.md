@@ -6,7 +6,8 @@ This project is a clone of Twitter with several core features including user aut
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [ Important Links](#important-links)
+- [Important Links](#important-links)
+- [Screenshots](#screenshots)
 
 ## Features
 
@@ -37,3 +38,10 @@ This project is a clone of Twitter with several core features including user aut
 **GitHub Repository** : https://github.com/ANIKETKOLI20/Tweetify
 ** Website URL ** : https://tweetify-1o3v.onrender.com/
 **Demo Video**: https://drive.google.com/file/d/1qCdYJXX2eLhy2ihzoj9TnY9MdE2fhXg9/view?usp=sharing
+
+## Screenshots 
+https://github.com/user-attachments/assets/e2915d22-ab42-4d29-88e3-404b780aaefb
+https://github.com/user-attachments/assets/d5dc47bc-9ec0-4314-840b-64b89148533b
+https://github.com/user-attachments/assets/27736e5b-7c5c-40af-96cc-2709fe1feacf
+https://github.com/user-attachments/assets/e90c1e80-8ee9-446e-83ba-e5ade55ab467
+https://github.com/user-attachments/assets/d495d507-560a-46a7-8b55-9b566d9ec411
