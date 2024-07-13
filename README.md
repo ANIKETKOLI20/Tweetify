@@ -36,4 +36,4 @@ This project is a clone of Twitter with several core features including user aut
 ## Important Links
 **GitHub Repository** : https://github.com/ANIKETKOLI20/Tweetify
 ** Website URL ** : https://tweetify-1o3v.onrender.com/
-**Demo Video**: Video Link
+**Demo Video**: https://drive.google.com/file/d/1qCdYJXX2eLhy2ihzoj9TnY9MdE2fhXg9/view?usp=sharing
